@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1584205420 source:c:\Учеба\codeblocks допы\lr-3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1670384612 source:c:\study\codeblocks допы\lr-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<math.h>
+	"locale.h"
+
